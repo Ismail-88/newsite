@@ -1656,9 +1656,9 @@ margin-top: -22px;
 .page7 .events{
     font-size: 20px;
 }
-.navbar{
+/* .navbar{
     position: fixed;
-}
+} */
 }
 @media (max-width: 400px){
 .page1 div h2 {
