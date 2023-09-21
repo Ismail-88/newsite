@@ -19,6 +19,7 @@
      backdrop-filter: blur(8px); */
     width: 100%;
     height: 15vh;
+    position: fixed;
 }
 
 .menu_bar ul {
@@ -1657,8 +1658,7 @@ margin-top: -22px;
 }
 .navbar{
     position: fixed;
-    filter: blur(10px);
-    opacity: 1;
+    height: 12vh;
 }
 }
 @media (max-width: 400px){
