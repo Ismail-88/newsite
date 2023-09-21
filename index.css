@@ -1658,7 +1658,6 @@ margin-top: -22px;
 }
 .navbar{
     position: fixed;
-    height: 12vh;
 }
 }
 @media (max-width: 400px){
